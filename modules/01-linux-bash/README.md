@@ -22,7 +22,7 @@ Almost every server, container and cloud machine you will touch as a DevOps engi
 
 Watch the full Linux session first. Keep a terminal open next to the video and type along.
 
-[![Watch the Linux recording](https://img.youtube.com/vi/TjnC_Qrd5_M/hqdefault.jpg)](https://youtu.be/TjnC_Qrd5_M?si=she17VE-f6Jr3jPP)
+[![Watch the Linux recording](https://img.youtube.com/vi/TjnC_Qrd5_M/hqdefault.jpg)](https://youtu.be/UlenpMKWSRk?si=sE75wNgSUXjehM9K)
 
 ▶️ **[youtu.be/TjnC_Qrd5_M](https://youtu.be/UlenpMKWSRk?si=sE75wNgSUXjehM9K)**
 
