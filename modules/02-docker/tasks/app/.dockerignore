@@ -1,0 +1,8 @@
+# ZiDD 4.0 · DevOps Jadeja (@devops_jadeja) · github.com/jadeja-rajpal
+# Files Docker should NOT copy into the image
+node_modules
+npm-debug.log
+.git
+.env
+Dockerfile
+.dockerignore

@@ -18,7 +18,7 @@ This repo is your home base for the next six weeks. Every module has its own fol
 |---|--------|------|-------|---------|--------|
 | 01 | [Linux & Bash Foundations](modules/01-linux-bash/) | 1 | Both | Linux server administration | ✅ Ready |
 | 02 | [Docker: Containers from Scratch](modules/02-docker/) | 1 | Both | Containerize a multi-tier app | ✅ Ready |
-| 03 | [Kubernetes Core](modules/03-kubernetes-core/) | 2 | Both | Deploy to local Kubernetes | 🚧 Coming soon |
+| 03 | [Kubernetes Core](modules/03-kubernetes-core/) | 2 | Both | Deploy to local Kubernetes | ✅ Ready |
 | 04 | [AWS Cloud Foundations](modules/04-aws-cloud-foundations/) | 2 | Both | Multi-AZ VPC on AWS | 🚧 Coming soon |
 | 05 | [Amazon EKS & Microservices](modules/05-eks-microservices/) | 3 | Both | Microservices on EKS | 🚧 Coming soon |
 | 06 | [Monitoring on EKS](modules/06-monitoring-on-eks/) | 3 | Both | Monitoring on EKS | 🚧 Coming soon |
@@ -59,7 +59,8 @@ zidd-4.0/
     │   ├── README.md          ← recording, tasks, Project #02, 10 interview questions
     │   └── images/
     ├── 03-kubernetes-core/
-    │   └── README.md
+    │   ├── README.md          ← recording, topics, Task 1, 10 interview questions
+    │   └── images/
     ├── ...                    ← one folder per module
     └── 12-coming-soon/
         └── README.md
@@ -71,12 +72,13 @@ New modules are added here as the weeks go on. Run `git pull` to get the latest.
 
 ## 🚀 Start here
 
-Two modules are ready for Week 1. Do them in this order:
+Three modules are ready. Do them in this order:
 
 | Step | Module | What to do |
 |---|---|---|
 | 1 | 👉 **[Module 01: Linux & Bash Foundations](modules/01-linux-bash/README.md)** | Watch the Linux recording, then work through the three tasks. |
 | 2 | 👉 **[Module 02: Docker: Containers from Scratch](modules/02-docker/README.md)** | Watch the Docker recording, clone the [workshop code](https://github.com/jadeja-rajpal/docker-zidd3), do the three tasks, then build **Project #02: Containerize a Multi-Tier App**. |
+| 3 | 👉 **[Module 03: Kubernetes Core](modules/03-kubernetes-core/README.md)** | Watch the Kubernetes recording, clone the [manifests repo](https://github.com/jadeja-rajpal/kubernetes-zidd3), then do **Task 1**: a kind cluster with a frontend and backend talking over a ClusterIP Service. |
 
 > Practice on your own VM, WSL2 or a cloud instance. **Never practice on a production server.**
 

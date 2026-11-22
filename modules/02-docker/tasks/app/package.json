@@ -1,0 +1,15 @@
+{
+  "name": "zidd-dashboard",
+  "version": "1.0.0",
+  "description": "ZiDD 4.0 · DevOps Jadeja (@devops_jadeja) · Task 3 demo app",
+  "author": "DevOps Jadeja (@devops_jadeja)",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}

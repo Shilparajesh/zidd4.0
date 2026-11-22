@@ -22,6 +22,8 @@
 
 Watch the full Docker session first. Keep a terminal open next to the video and type along.
 
+[![Watch the Docker recording](images/02-recording-cover.png)](https://us06web.zoom.us/rec/share/nux68-rWKdCTIbx-OuKVGlio6aqYEkndWyDhORUDfRmBwrjO_30YrLEFSmF4GxZu.HKVRMdf_tZPjQZb3)
+
 ▶️ **[Watch the Docker recording on Zoom](https://us06web.zoom.us/rec/share/nux68-rWKdCTIbx-OuKVGlio6aqYEkndWyDhORUDfRmBwrjO_30YrLEFSmF4GxZu.HKVRMdf_tZPjQZb3)**
 
 🔑 **Passcode:** `W5T%*+DA`
